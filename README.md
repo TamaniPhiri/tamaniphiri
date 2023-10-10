@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamaniphiri" alt="tamaniphiri" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot and DotNET Framework**
+- 🌱 I’m currently learning **Spring Boot and DotNET**
 
 - 👨‍💻 All of my projects are available at [https://next-tamani.vercel.app/home](https://next-tamani.vercel.app/home)
 
