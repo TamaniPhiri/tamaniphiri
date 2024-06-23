@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nestjs and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://next-tamani.vercel.app/home](https://next-tamani.vercel.app/home)
+- 👨‍💻 All of my projects are available at [https://tamani-phiri-dev.vercel.app/](https://tamani-phiri-dev.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
